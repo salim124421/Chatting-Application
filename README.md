@@ -1,1 +1,3 @@
 # Chatting-Application
+Socket programming 
+This is the desktop based application in which server and client can communicate ...
